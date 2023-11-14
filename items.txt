@@ -1,0 +1,11 @@
+Key
+A rusty key that seems to unlock a hidden door.
+1
+
+Flashlight
+A bright flashlight that can illuminate dark areas.
+1
+
+Book
+An ancient book with strange symbols and illustrations.
+3

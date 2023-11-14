@@ -1,0 +1,26 @@
+C
+Type "C" anytime to see your commands.
+
+Examine Room
+Type "Examine Room" to see the items in the current room.
+
+Examine Inventory
+Type "Examine Inventory" to see the items in your inventory.
+
+Pickup [Item Name]
+Type "Pickup [Item Name]" to pick up an item in the room.
+
+Drop [Item Name]
+Type "Drop [Item Name]" to drop an item from your inventory.
+
+[N]orth, [E]ast, [S]outh, [W]est
+Type the direction to move to the corresponding room.
+
+Use [Item Name]
+Type "Use [Item Name]" to use an item from your inventory.
+
+Solve Puzzle
+Type "Solve Puzzle" to attempt solving a puzzle in the room.
+
+Quit
+Type "Quit" to exit the game.

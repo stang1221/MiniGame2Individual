@@ -1,0 +1,91 @@
+----
+1
+Living Room
+Welcome to the living room! This is the central gathering space of the house. This is where we start.
+This room is cozy and comfortable, with a large sofa, a coffee table, and a TV mounted on the wall.
+
+North:2, South:3, East:4, West:6
+
+false
+
+
+
+
+
+
+----
+2
+Kitchen
+You have entered the kitchen. This room is well-equipped with modern appliances and a spacious countertop for cooking and food preparation.
+There is a dining table in the corner, and the aroma of delicious meals fills the air.
+
+South:1, West:5, North: 0, East:0
+
+false
+Knife
+Something Sharp
+Backwards Puzzle
+What is adventure backwards?
+erutnevda
+3
+----
+3
+Bedroom
+You have entered the bedroom. This room is a cozy sanctuary with a comfortable bed, a wardrobe, and a bedside table.
+Soft lighting and plush pillows create a relaxing atmosphere.
+
+North:1, South:0, East:0, West:0
+
+false
+
+
+
+
+
+
+----
+4
+Bathroom
+You have entered the bathroom. This room is designed for personal hygiene, with a shower, a sink, and a toilet.
+Clean towels are neatly arranged on a rack.
+
+West:1, East:0, North:0, South:0
+
+false
+
+
+
+
+
+
+----
+5
+Garden
+You have stepped into the garden. This outdoor space features a well-maintained garden with colorful flowers and lush greenery.
+There is a stone pathway leading through the garden.
+
+East:2, West:0, North:0, South:6
+
+false
+trowel
+A rusty trowel that is used for digging.
+
+
+
+
+----
+6
+Study Room
+This room is a quiet space for work or reading, with a desk, a comfortable chair, and bookshelves filled with books.
+Natural light streams in through a large window.
+
+East:1, West:0, North:5, South:0
+
+false
+Book
+A book that seems to have some kind of riddles.
+
+
+
+
+
